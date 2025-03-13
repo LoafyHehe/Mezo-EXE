@@ -10,9 +10,13 @@ Mezo-EXE is a powerful and versatile Roblox / Luau script executor designed to r
 
 # Features
 ● **Fast & Reliable Execution** – Optimized for smooth and efficient script running.
+
 ● **Support for Various Script Types** – Loadstrings, Requires (if applicable), and other advanced execution methods.
+
 ● **User-Friendly Interface** – Simple, clean, and easy to use.
+
 ● **Regular Updates** – Continuously improved with bug fixes, optimizations, and new features.
+
 
 # Stay Updated
 To receive the latest updates, announcements, and support, join our Discord server:
