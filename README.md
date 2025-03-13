@@ -3,7 +3,9 @@
 Mezo-EXE is a powerful and versatile Roblox / Luau script executor designed to run various types of scripts effortlessly. It supports execution of:
 
 ● **Loadstrings** – Execute dynamic Lua code with ease.
+
 ● **Requires** – Utilize external modules (only if the game has a backdoor).
+
 ● **And much more!** – Mezo-EXE is built to handle a wide range of scripts, making it an essential tool for script execution on Roblox.
 
 # Features
